@@ -1,6 +1,4 @@
 # pow-sa-developers
-Created with CodeSandbox
-
 A simple re-implementation of Math.pow(base, exponent)
 
 ## Example
