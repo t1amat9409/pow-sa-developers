@@ -6,8 +6,7 @@ A simple re-implementation of Math.pow(base, exponent)
 ## Example
 
 ```js
-  import pow from './pow';
-  import pow from "./pow";
+  import pow from './pow'; //import pow module 
 
   console.log("TEST ONE");
   pow({ base: 2, exponent: 8 }); 
