@@ -2,7 +2,8 @@
  * @author Aliziwe Mahono
  * @description The Math.pow() function returns the base to the exponent power, that is, base^exponent
  * @param base the base number, can be any inter value
- * @param base the exponent number, can be any inter value
+ * @param exponent the exponent number, can be any inter value
+ * @param isDebug used to test the custom function by comparing the outputs
  * @example pow({base:number, exponent: number, isDebug: bool})
  */
 const pow = ({ base = 0, exponent = 0, isDebug = false }) => {
